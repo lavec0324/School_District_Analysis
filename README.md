@@ -46,7 +46,7 @@ Thomas High School's Performance Before
 
 Thomas High School's Performance After
 
-![](https://github.com/lavec0324/School_District_Analysis/blob/main/Resources/spending_after.PNG)
+![](https://github.com/lavec0324/School_District_Analysis/blob/main/Resources/top_five_after.PNG)
 
 ####	How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
