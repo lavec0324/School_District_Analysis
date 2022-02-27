@@ -111,6 +111,6 @@ Overall there doesn't seem to be a large change in percentages, the four most pr
 * District math scores dropped from 75 to 73.9
 * Disctrict reading scores dropped from 86 to 84.7
 * Thomas high school overall passing dropped from 90.95 to 90.63
-* Ninth grade scores were dropped from Thomas high school
+* Ninth grade scores were dropped from Thomas high school 
 
 This might conclude that the grades that were dropped did not show a material difference overall which could indicate that there was no foul play in those grades.
