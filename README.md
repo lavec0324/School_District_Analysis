@@ -15,11 +15,9 @@ Only three files are necessary for this analysis:
 All other files in the repo are working data only or images.
 
 ## Results
+Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
 ###	How is the district summary affected?
-
-* Average Math Score went slightly down
-* Passing math and reading percentages wen down slightly as well as overall
 
 District Summary Before
 
@@ -30,8 +28,6 @@ District Summary After
 ![](https://github.com/lavec0324/School_District_Analysis/blob/main/Resources/district_summary_after.PNG)
 
 ####	How is the school summary affected?
-
-* Slight changes downwards overall in all categories except average reading ticked up slightly.  Passing reading and overall were impacted the most.
 
 School Summary Before
 
@@ -50,12 +46,10 @@ Thomas High School's Performance Before
 
 Thomas High School's Performance After
 
-![](https://github.com/lavec0324/School_District_Analysis/blob/main/Resources/spending_after.PNG)
+![](https://github.com/lavec0324/School_District_Analysis/blob/main/Resources/top_five_after.PNG)
 
 ####	How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
-
-Average math score went down
 
 Math Before
 
@@ -64,8 +58,6 @@ Math Before
 Math After
 
 ![](https://github.com/lavec0324/School_District_Analysis/blob/main/Resources/math_scores_by_grade_after.PNG)
-
-Average reading score went slightly up
 
 Reading Before
 
@@ -76,8 +68,6 @@ Reading After
 ![](https://github.com/lavec0324/School_District_Analysis/blob/main/Resources/reading_scores_by_grade_after.PNG)
 
 Scores by school spending
-
-
 
 Spending Before
 
@@ -103,12 +93,10 @@ Type Before
 
 ![](https://github.com/lavec0324/School_District_Analysis/blob/main/Resources/type_before.PNG)
 
-Type After
+Type After 
 
 ![](https://github.com/lavec0324/School_District_Analysis/blob/main/Resources/type_after.PNG)
 
 ## Summary
 
 Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-
-
