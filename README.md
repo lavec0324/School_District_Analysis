@@ -104,8 +104,6 @@ Type After
 
 ## Summary
 
-Summary:  Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-
 Overall there doesn't seem to be a large change in percentages, the four most prevalent changes are:
 * District math scores dropped from 75 to 73.9
 * Disctrict reading scores dropped from 86 to 84.7
