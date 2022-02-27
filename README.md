@@ -15,9 +15,11 @@ Only three files are necessary for this analysis:
 All other files in the repo are working data only or images.
 
 ## Results
-Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
 ###	How is the district summary affected?
+
+* Average Math Score went slightly down
+* Passing math and reading percentages wen down slightly as well as overall
 
 District Summary Before
 
@@ -28,6 +30,8 @@ District Summary After
 ![](https://github.com/lavec0324/School_District_Analysis/blob/main/Resources/district_summary_after.PNG)
 
 ####	How is the school summary affected?
+
+* Slight changes downwards overall in all categories except average reading ticked up slightly.  Passing reading and overall were impacted the most.
 
 School Summary Before
 
@@ -51,6 +55,8 @@ Thomas High School's Performance After
 ####	How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
 
+Average math score went down
+
 Math Before
 
 ![](https://github.com/lavec0324/School_District_Analysis/blob/main/Resources/math_score_by_grade_before.PNG)
@@ -58,6 +64,8 @@ Math Before
 Math After
 
 ![](https://github.com/lavec0324/School_District_Analysis/blob/main/Resources/math_scores_by_grade_after.PNG)
+
+Average reading score went slightly up
 
 Reading Before
 
@@ -68,6 +76,8 @@ Reading After
 ![](https://github.com/lavec0324/School_District_Analysis/blob/main/Resources/reading_scores_by_grade_after.PNG)
 
 Scores by school spending
+
+
 
 Spending Before
 
