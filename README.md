@@ -93,7 +93,7 @@ Type Before
 
 ![](https://github.com/lavec0324/School_District_Analysis/blob/main/Resources/type_before.PNG)
 
-Type After
+Type After 
 
 ![](https://github.com/lavec0324/School_District_Analysis/blob/main/Resources/type_after.PNG)
 
