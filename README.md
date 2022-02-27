@@ -15,7 +15,6 @@ Only three files are necessary for this analysis:
 All other files in the repo are working data only or images.
 
 ## Results
-Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
 ###	How is the district summary affected?
 
