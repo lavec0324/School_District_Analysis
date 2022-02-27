@@ -51,6 +51,8 @@ Thomas High School's Performance After
 ####	How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
 
+* Math - 9th grade math was dropped, all other remained the same
+
 Math Before
 
 ![](https://github.com/lavec0324/School_District_Analysis/blob/main/Resources/math_score_by_grade_before.PNG)
@@ -58,6 +60,8 @@ Math Before
 Math After
 
 ![](https://github.com/lavec0324/School_District_Analysis/blob/main/Resources/math_scores_by_grade_after.PNG)
+
+* Reading - 9th grade math was dropped, all other remained the same
 
 Reading Before
 
@@ -68,6 +72,8 @@ Reading After
 ![](https://github.com/lavec0324/School_District_Analysis/blob/main/Resources/reading_scores_by_grade_after.PNG)
 
 Scores by school spending
+
+* While there were residual differences when rounded up there were no changes in spending, size, or type.
 
 Spending Before
 
